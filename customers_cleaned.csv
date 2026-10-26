@@ -1,0 +1,35 @@
+customer_id,customer_name,email,age,city,phone,invalid_age,missing_email,invalid_email,invalid_phone,possible_duplicate
+1001,Arun Kumar,arun.kumar@example.com,28,Chennai,9876543210,False,False,False,False,True
+1002,Priya S,,32,Chennai,9876543211,False,True,False,False,True
+1003,Karthik R,karthik.r@example.com,41,Chennai,987654321,False,False,False,True,False
+1004,Meena,meena@example.com,-5,Bengaluru,9123456780,True,False,False,False,True
+1005,Ravi Kumar,ravi.k@example.com,250,Hyderabad,12345,True,False,False,True,False
+1006,Divya M,,26,Madurai,9988776655,False,True,False,False,False
+1007,Arun Kumar,arun.kumar@example.com,28,Chennai,9876543210,False,False,False,False,True
+1008,Sanjay P,sanjay.p@example.com,35,Coimbatore,9876501234,False,False,False,False,False
+1009,Lakshmi V,lakshmi.v@example.com,29,Chennai,98765,False,False,False,True,False
+1010,Mohamed Ali,m.ali@example.com,44,Trichy,9000011111,False,False,False,False,False
+1011,Nisha R,,23,Chennai,987654321012,False,True,False,True,False
+1012,Vijay S,vijay.s@example.com,38,Pondicherry,9345678901,False,False,False,False,False
+1013,Keerthi,keerthi@example.com,31,Chennai,abcdefghij,False,False,False,True,False
+1014,Prakash D,prakash.d@example.com,0,Salem,9898989898,False,False,False,False,False
+1015,Anitha P,,27,Chennai,9876509876,False,True,False,False,False
+1016,Suresh B,suresh.b@example.com,52,Erode,9876543210,False,False,False,False,False
+1017,Priya S,,32,Chennai,9876543211,False,True,False,False,True
+1018,Harini K,harini.k@example.com,24,Tirunelveli,9876,False,False,False,True,False
+1019,Gokul N,gokul.n@example.com,33,Chennai,9001234567,False,False,False,False,False
+1020,Farah A,farah.a@example.com,39,Vellore,9876543210,False,False,False,False,False
+1021,Manoj T,manoj.t@example.com,150,Chennai,999999999,True,False,False,True,False
+1022,Deepa L,deepa.l@example.com,30,Chennai,9876543210,False,False,False,False,False
+1023,Bala M,bala.m@example.com,22,Thanjavur,98765AB210,False,False,False,True,False
+1024,Revathi S,,36,Chennai,9123456789,False,True,False,False,False
+1025,Arun Kumar,arun.k@example.com,28,Chennai,9876543210,False,False,False,False,True
+1026,Sathish V,sathish.v@example.com,-1,Dindigul,12345678901,True,False,False,True,False
+1027,Janani R,janani.r@example.com,25,Chennai,9876543210,False,False,False,False,False
+1028,Ramesh P,,47,Kanchipuram,987,False,True,False,True,False
+1029,Swetha N,swetha.n@example.com,34,Chennai,9876543219,False,False,False,False,False
+1030,Imran K,imran.k@example.com,29,Chennai,0000000000,False,False,False,False,False
+1031,Meena,meena@example.com,-5,Bengaluru,9123456780,True,False,False,False,True
+1032,Pavithra J,pavithra.j@example.com,40,Chennai,,False,False,False,False,False
+1033,Dinesh R,dinesh.r@example.com,19,Mumbai,987654321,False,False,False,True,False
+1034,Kavya S,kavya.s@example.com,27,Chennai,9876543210,False,False,False,False,False
