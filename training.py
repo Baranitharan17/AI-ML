@@ -1,12 +1,12 @@
-from sklearn.datasets import load_iris, load_diabetes
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression, LinearRegression
-from sklearn.metrics import accuracy_score,f1_score,confusion_matrix
-from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score
-from sklearn.cluster import KMeans
-from collections import Counter
-import pandas as pd
-import numpy as np
+# from sklearn.datasets import load_iris, load_diabetes
+# from sklearn.model_selection import train_test_split
+# from sklearn.linear_model import LogisticRegression, LinearRegression
+# from sklearn.metrics import accuracy_score,f1_score,confusion_matrix
+# from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score
+# from sklearn.cluster import KMeans
+# from collections import Counter
+# import pandas as pd
+# import numpy as np
 
 #1)load the iris dataset
 #iris=load_iris()
