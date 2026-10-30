@@ -1,0 +1,32 @@
+DATA AUDIT AND MODEL EVALUATION
+
+Before cleaning: {'rows': 48, 'missing_text': 1, 'missing_category': 2, 'missing_cells_percent': np.float64(3.12), 'duplicate_rows': 2, 'category_balance': {'billing': 14, 'technical': 13, 'account': 13, 'BILLING': 2, 'TECHNICAL': 2, 'ACCOUNT': 2, nan: 2}}
+
+After cleaning: {'rows': 42, 'missing_text': 0, 'missing_category': 0, 'missing_cells_percent': np.float64(0.0), 'duplicate_rows': 1, 'category_balance': {'billing': 15, 'account': 14, 'technical': 13}}
+
+Baseline accuracy: 0.3333
+Baseline macro F1: 0.1667
+Baseline confusion matrix:
+[[0 3 0]
+ [0 3 0]
+ [0 3 0]]
+
+Model accuracy: 0.5556
+Model macro F1: 0.5667
+Model confusion matrix:
+[[2 1 0]
+ [2 1 0]
+ [1 0 2]]
+
+Misclassified tickets:
+                                  text    actual predicted                                                        reason
+           i cannot upload my document technical   account Short or ambiguous wording provides limited category context.
+ cancel the extra charge on my account   billing   account Short or ambiguous wording provides limited category context.
+refund has not reached my bank account   billing   account Short or ambiguous wording provides limited category context.
+
+KMeans comparison:
+category  account  billing  technical
+cluster                              
+0              11        6         11
+1               0        6          0
+2               3        3          2
