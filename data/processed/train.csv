@@ -1,0 +1,421 @@
+text,category,priority
+package delivery is delayed - ticket reference delivery-17,Delivery,Medium
+i forgot my password - ticket reference account-17,Account,Medium
+i am facing a server error - ticket reference technical-14,Technical,Medium
+please help me reset my credentials - ticket reference account-48,Account,High
+please refund my payment - ticket reference billing-8,Billing,Medium
+i was charged twice - ticket reference billing-46,Billing,Low
+software is running slowly - ticket reference technical-93,Technical,High
+what are the office timings? - ticket reference general-46,General,Low
+the application has a technical issue - ticket reference technical-100,Technical,Low
+please contact me regarding my query - ticket reference general-64,General,Low
+what is the leave policy? - ticket reference hr-71,HR,Medium
+what is the leave policy? - ticket reference hr-96,HR,High
+my order is missing - ticket reference delivery-35,Delivery,Medium
+what is the leave policy? - ticket reference hr-31,HR,Low
+what are the office timings? - ticket reference general-26,General,Medium
+please contact me regarding my query - ticket reference general-59,General,Medium
+i cannot access my profile - ticket reference account-70,Account,Low
+my order is missing - ticket reference delivery-65,Delivery,Medium
+i was charged twice - ticket reference billing-91,Billing,Low
+i need my salary slip - ticket reference hr-23,HR,Medium
+package delivery is delayed - ticket reference delivery-32,Delivery,Medium
+i was charged twice - ticket reference billing-56,Billing,Medium
+i received the wrong product - ticket reference delivery-28,Delivery,Low
+i need my salary slip - ticket reference hr-93,HR,High
+payment failed but money was deducted - ticket reference billing-29,Billing,Medium
+how many casual leaves are available? - ticket reference hr-57,HR,High
+i received the wrong product - ticket reference delivery-68,Delivery,Medium
+software is running slowly - ticket reference technical-13,Technical,Low
+i received the wrong product - ticket reference delivery-63,Delivery,High
+i received the wrong product - ticket reference delivery-18,Delivery,High
+payment failed but money was deducted - ticket reference billing-4,Billing,Low
+website is not loading - ticket reference technical-42,Technical,High
+i need general information - ticket reference general-78,General,High
+my order is missing - ticket reference delivery-45,Delivery,High
+i have a general question - ticket reference general-80,General,Medium
+please refund my payment - ticket reference billing-28,Billing,Low
+i received the wrong product - ticket reference delivery-3,Delivery,High
+my order has not arrived - ticket reference delivery-76,Delivery,Low
+please explain the attendance policy - ticket reference hr-89,HR,Medium
+where is the company office? - ticket reference general-12,General,High
+i was charged twice - ticket reference billing-16,Billing,Low
+please contact me regarding my query - ticket reference general-44,General,Medium
+i am facing a server error - ticket reference technical-24,Technical,High
+how can i apply for leave? - ticket reference hr-30,HR,High
+how can i apply for leave? - ticket reference hr-55,HR,Low
+i need my billing statement - ticket reference billing-55,Billing,Low
+please refund my payment - ticket reference billing-78,Billing,High
+where is the company office? - ticket reference general-52,General,Low
+my invoice is incorrect - ticket reference billing-12,Billing,High
+i need my billing statement - ticket reference billing-80,Billing,Medium
+unable to login to my account - ticket reference account-76,Account,Low
+i received the wrong product - ticket reference delivery-43,Delivery,Low
+unable to login to my account - ticket reference account-26,Account,Medium
+website is not loading - ticket reference technical-22,Technical,Low
+please refund my payment - ticket reference billing-38,Billing,Medium
+how can i apply for leave? - ticket reference hr-80,HR,Medium
+software is running slowly - ticket reference technical-73,Technical,Low
+i cannot access my profile - ticket reference account-20,Account,Medium
+unable to login to my account - ticket reference account-46,Account,Low
+unable to login to my account - ticket reference account-31,Account,Low
+please contact me regarding my query - ticket reference general-39,General,High
+i cannot access my profile - ticket reference account-65,Account,Medium
+i cannot access my profile - ticket reference account-30,Account,High
+i have a general question - ticket reference general-50,General,Medium
+i have a general question - ticket reference general-85,General,Low
+package delivery is delayed - ticket reference delivery-57,Delivery,High
+i need general information - ticket reference general-28,General,Low
+website is not loading - ticket reference technical-32,Technical,Medium
+my account is locked - ticket reference account-49,Account,Low
+i received the wrong product - ticket reference delivery-93,Delivery,High
+please explain the attendance policy - ticket reference hr-79,HR,Low
+i need my billing statement - ticket reference billing-65,Billing,Medium
+how can i apply for leave? - ticket reference hr-85,HR,Low
+payment failed but money was deducted - ticket reference billing-34,Billing,Low
+application is crashing - ticket reference technical-76,Technical,Low
+package delivery is delayed - ticket reference delivery-82,Delivery,Low
+i have a general question - ticket reference general-100,General,Low
+what is the leave policy? - ticket reference hr-51,HR,High
+software is running slowly - ticket reference technical-98,Technical,Medium
+i forgot my password - ticket reference account-22,Account,Low
+payment failed but money was deducted - ticket reference billing-14,Billing,Medium
+i have a general question - ticket reference general-5,General,Medium
+what is the leave policy? - ticket reference hr-91,HR,Low
+i cannot access my profile - ticket reference account-95,Account,Medium
+how can i apply for leave? - ticket reference hr-15,HR,High
+i forgot my password - ticket reference account-62,Account,Medium
+what is the leave policy? - ticket reference hr-46,HR,Low
+my order is missing - ticket reference delivery-10,Delivery,Low
+please help me reset my credentials - ticket reference account-3,Account,High
+i am facing a server error - ticket reference technical-79,Technical,Low
+website is not loading - ticket reference technical-87,Technical,High
+i need my salary slip - ticket reference hr-98,HR,Medium
+i need general information - ticket reference general-83,General,Medium
+my invoice is incorrect - ticket reference billing-2,Billing,Medium
+what is the leave policy? - ticket reference hr-36,HR,High
+website is not loading - ticket reference technical-52,Technical,Low
+where is the company office? - ticket reference general-37,General,Low
+package delivery is delayed - ticket reference delivery-7,Delivery,Low
+i need general information - ticket reference general-73,General,Low
+i was charged twice - ticket reference billing-6,Billing,High
+my account is locked - ticket reference account-74,Account,Medium
+i cannot access my profile - ticket reference account-90,Account,High
+please refund my payment - ticket reference billing-53,Billing,Medium
+please track my shipment - ticket reference delivery-14,Delivery,Medium
+please help me reset my credentials - ticket reference account-18,Account,High
+where is the company office? - ticket reference general-47,General,Medium
+where is the company office? - ticket reference general-97,General,Low
+the application has a technical issue - ticket reference technical-70,Technical,Low
+my order has not arrived - ticket reference delivery-66,Delivery,High
+i forgot my password - ticket reference account-92,Account,Medium
+i was charged twice - ticket reference billing-86,Billing,Medium
+website is not loading - ticket reference technical-77,Technical,Medium
+i am facing a server error - ticket reference technical-29,Technical,Medium
+i forgot my password - ticket reference account-42,Account,High
+my invoice is incorrect - ticket reference billing-87,Billing,High
+my order is missing - ticket reference delivery-20,Delivery,Medium
+please refund my payment - ticket reference billing-48,Billing,High
+how can i apply for leave? - ticket reference hr-45,HR,High
+i need my salary slip - ticket reference hr-53,HR,Medium
+how can i apply for leave? - ticket reference hr-25,HR,Low
+payment failed but money was deducted - ticket reference billing-69,Billing,High
+payment failed but money was deducted - ticket reference billing-74,Billing,Medium
+what is the leave policy? - ticket reference hr-41,HR,Medium
+i received the wrong product - ticket reference delivery-38,Delivery,Medium
+i received the wrong product - ticket reference delivery-23,Delivery,Medium
+i need my billing statement - ticket reference billing-50,Billing,Medium
+i have a general question - ticket reference general-20,General,Medium
+i have a general question - ticket reference general-70,General,Low
+package delivery is delayed - ticket reference delivery-37,Delivery,Low
+please track my shipment - ticket reference delivery-4,Delivery,Low
+unable to login to my account - ticket reference account-1,Account,Low
+i need general information - ticket reference general-33,General,High
+website is not loading - ticket reference technical-67,Technical,Low
+what are the office timings? - ticket reference general-71,General,Medium
+my account is locked - ticket reference account-89,Account,Medium
+where is the company office? - ticket reference general-92,General,Medium
+payment failed but money was deducted - ticket reference billing-64,Billing,Low
+my invoice is incorrect - ticket reference billing-22,Billing,Low
+i forgot my password - ticket reference account-32,Account,Medium
+i was charged twice - ticket reference billing-11,Billing,Medium
+i need my salary slip - ticket reference hr-63,HR,High
+please help me reset my credentials - ticket reference account-13,Account,Low
+i need my billing statement - ticket reference billing-60,Billing,High
+my account is locked - ticket reference account-4,Account,Low
+where is the company office? - ticket reference general-7,General,Low
+my order is missing - ticket reference delivery-70,Delivery,Low
+how many casual leaves are available? - ticket reference hr-87,HR,High
+i need my salary slip - ticket reference hr-48,HR,High
+how many casual leaves are available? - ticket reference hr-52,HR,Low
+how can i apply for leave? - ticket reference hr-90,HR,High
+i need general information - ticket reference general-23,General,Medium
+i am facing a server error - ticket reference technical-9,Technical,High
+what is the leave policy? - ticket reference hr-26,HR,Medium
+my account is locked - ticket reference account-9,Account,High
+the application has a technical issue - ticket reference technical-25,Technical,Low
+i need my salary slip - ticket reference hr-33,HR,High
+what are the office timings? - ticket reference general-41,General,Medium
+i cannot access my profile - ticket reference account-75,Account,High
+how many casual leaves are available? - ticket reference hr-97,HR,Low
+my order has not arrived - ticket reference delivery-41,Delivery,Medium
+how can i apply for leave? - ticket reference hr-70,HR,Low
+unable to login to my account - ticket reference account-86,Account,Medium
+how many casual leaves are available? - ticket reference hr-32,HR,Medium
+i need my billing statement - ticket reference billing-75,Billing,High
+please track my shipment - ticket reference delivery-99,Delivery,High
+my invoice is incorrect - ticket reference billing-97,Billing,Low
+website is not loading - ticket reference technical-17,Technical,Medium
+software is running slowly - ticket reference technical-43,Technical,Low
+i need my billing statement - ticket reference billing-70,Billing,Low
+what is the leave policy? - ticket reference hr-66,HR,High
+please explain the attendance policy - ticket reference hr-94,HR,Low
+please explain the attendance policy - ticket reference hr-4,HR,Low
+how can i apply for leave? - ticket reference hr-5,HR,Medium
+what are the office timings? - ticket reference general-56,General,Medium
+the application has a technical issue - ticket reference technical-90,Technical,High
+i have a general question - ticket reference general-30,General,High
+i need my billing statement - ticket reference billing-10,Billing,Low
+my invoice is incorrect - ticket reference billing-37,Billing,Low
+please help me reset my credentials - ticket reference account-43,Account,Low
+how can i apply for leave? - ticket reference hr-50,HR,Medium
+i need general information - ticket reference general-38,General,Medium
+please contact me regarding my query - ticket reference general-14,General,Medium
+what are the office timings? - ticket reference general-91,General,Low
+i am facing a server error - ticket reference technical-44,Technical,Medium
+my invoice is incorrect - ticket reference billing-42,Billing,High
+i cannot access my profile - ticket reference account-60,Account,High
+i am facing a server error - ticket reference technical-94,Technical,Low
+website is not loading - ticket reference technical-27,Technical,High
+my order is missing - ticket reference delivery-55,Delivery,Low
+my invoice is incorrect - ticket reference billing-92,Billing,Medium
+application is crashing - ticket reference technical-81,Technical,High
+website is not loading - ticket reference technical-2,Technical,Medium
+i have a general question - ticket reference general-15,General,High
+i need my billing statement - ticket reference billing-90,Billing,High
+i have a general question - ticket reference general-40,General,Low
+i was charged twice - ticket reference billing-31,Billing,Low
+what are the office timings? - ticket reference general-16,General,Low
+my order has not arrived - ticket reference delivery-71,Delivery,Medium
+i need general information - ticket reference general-93,General,High
+software is running slowly - ticket reference technical-38,Technical,Medium
+application is crashing - ticket reference technical-96,Technical,High
+how many casual leaves are available? - ticket reference hr-82,HR,Low
+software is running slowly - ticket reference technical-18,Technical,High
+please refund my payment - ticket reference billing-18,Billing,High
+unable to login to my account - ticket reference account-16,Account,Low
+what is the leave policy? - ticket reference hr-81,HR,High
+where is the company office? - ticket reference general-32,General,Medium
+application is crashing - ticket reference technical-46,Technical,Low
+i cannot access my profile - ticket reference account-100,Account,Low
+i need my salary slip - ticket reference hr-18,HR,High
+my order is missing - ticket reference delivery-100,Delivery,Low
+i need my billing statement - ticket reference billing-100,Billing,Low
+my order is missing - ticket reference delivery-85,Delivery,Low
+i need my billing statement - ticket reference billing-45,Billing,High
+please help me reset my credentials - ticket reference account-38,Account,Medium
+package delivery is delayed - ticket reference delivery-27,Delivery,High
+i have a general question - ticket reference general-10,General,Low
+my order has not arrived - ticket reference delivery-26,Delivery,Medium
+application is crashing - ticket reference technical-56,Technical,Medium
+i need my salary slip - ticket reference hr-73,HR,Low
+payment failed but money was deducted - ticket reference billing-49,Billing,Low
+software is running slowly - ticket reference technical-68,Technical,Medium
+the application has a technical issue - ticket reference technical-65,Technical,Medium
+where is the company office? - ticket reference general-57,General,High
+what are the office timings? - ticket reference general-21,General,High
+i have a general question - ticket reference general-35,General,Medium
+i need my salary slip - ticket reference hr-38,HR,Medium
+i have a general question - ticket reference general-25,General,Low
+i need my salary slip - ticket reference hr-88,HR,Low
+please help me reset my credentials - ticket reference account-8,Account,Medium
+my invoice is incorrect - ticket reference billing-47,Billing,Medium
+unable to login to my account - ticket reference account-81,Account,High
+my invoice is incorrect - ticket reference billing-62,Billing,Medium
+i am facing a server error - ticket reference technical-69,Technical,High
+my order has not arrived - ticket reference delivery-96,Delivery,High
+my order is missing - ticket reference delivery-30,Delivery,High
+the application has a technical issue - ticket reference technical-45,Technical,High
+my invoice is incorrect - ticket reference billing-57,Billing,High
+please refund my payment - ticket reference billing-88,Billing,Low
+my invoice is incorrect - ticket reference billing-72,Billing,High
+my account is locked - ticket reference account-64,Account,Low
+my account is locked - ticket reference account-79,Account,Low
+where is the company office? - ticket reference general-27,General,High
+my invoice is incorrect - ticket reference billing-82,Billing,Low
+please track my shipment - ticket reference delivery-29,Delivery,Medium
+please explain the attendance policy - ticket reference hr-74,HR,Medium
+please help me reset my credentials - ticket reference account-93,Account,High
+i received the wrong product - ticket reference delivery-8,Delivery,Medium
+i am facing a server error - ticket reference technical-19,Technical,Low
+my account is locked - ticket reference account-59,Account,Medium
+what is the leave policy? - ticket reference hr-1,HR,Low
+payment failed but money was deducted - ticket reference billing-94,Billing,Low
+i am facing a server error - ticket reference technical-54,Technical,High
+please refund my payment - ticket reference billing-33,Billing,High
+payment failed but money was deducted - ticket reference billing-99,Billing,High
+please explain the attendance policy - ticket reference hr-9,HR,High
+please refund my payment - ticket reference billing-63,Billing,High
+application is crashing - ticket reference technical-66,Technical,High
+i am facing a server error - ticket reference technical-39,Technical,High
+software is running slowly - ticket reference technical-83,Technical,Medium
+my account is locked - ticket reference account-24,Account,High
+what is the leave policy? - ticket reference hr-61,HR,Low
+i am facing a server error - ticket reference technical-49,Technical,Low
+software is running slowly - ticket reference technical-88,Technical,Low
+unable to login to my account - ticket reference account-96,Account,High
+the application has a technical issue - ticket reference technical-80,Technical,Medium
+my invoice is incorrect - ticket reference billing-52,Billing,Low
+i was charged twice - ticket reference billing-61,Billing,Low
+i need general information - ticket reference general-98,General,Medium
+software is running slowly - ticket reference technical-63,Technical,High
+my account is locked - ticket reference account-14,Account,Medium
+where is the company office? - ticket reference general-17,General,Medium
+package delivery is delayed - ticket reference delivery-52,Delivery,Low
+software is running slowly - ticket reference technical-58,Technical,Low
+please explain the attendance policy - ticket reference hr-34,HR,Low
+the application has a technical issue - ticket reference technical-10,Technical,Low
+please help me reset my credentials - ticket reference account-98,Account,Medium
+i need my billing statement - ticket reference billing-5,Billing,Medium
+i am facing a server error - ticket reference technical-64,Technical,Low
+please contact me regarding my query - ticket reference general-34,General,Low
+i need my salary slip - ticket reference hr-83,HR,Medium
+my account is locked - ticket reference account-54,Account,High
+please track my shipment - ticket reference delivery-89,Delivery,Medium
+i have a general question - ticket reference general-55,General,Low
+payment failed but money was deducted - ticket reference billing-84,Billing,High
+i am facing a server error - ticket reference technical-74,Technical,Medium
+i forgot my password - ticket reference account-82,Account,Low
+my account is locked - ticket reference account-94,Account,Low
+what are the office timings? - ticket reference general-31,General,Low
+what is the leave policy? - ticket reference hr-6,HR,High
+what are the office timings? - ticket reference general-36,General,High
+my order has not arrived - ticket reference delivery-11,Delivery,Medium
+application is crashing - ticket reference technical-36,Technical,High
+my order has not arrived - ticket reference delivery-56,Delivery,Medium
+i have a general question - ticket reference general-60,General,High
+my account is locked - ticket reference account-34,Account,Low
+application is crashing - ticket reference technical-21,Technical,High
+please help me reset my credentials - ticket reference account-28,Account,Low
+package delivery is delayed - ticket reference delivery-22,Delivery,Low
+the application has a technical issue - ticket reference technical-5,Technical,Medium
+software is running slowly - ticket reference technical-48,Technical,High
+i was charged twice - ticket reference billing-36,Billing,High
+i need my salary slip - ticket reference hr-28,HR,Low
+application is crashing - ticket reference technical-16,Technical,Low
+my account is locked - ticket reference account-39,Account,High
+my order is missing - ticket reference delivery-60,Delivery,High
+please contact me regarding my query - ticket reference general-89,General,Medium
+please contact me regarding my query - ticket reference general-24,General,High
+i cannot access my profile - ticket reference account-45,Account,High
+software is running slowly - ticket reference technical-23,Technical,Medium
+what are the office timings? - ticket reference general-11,General,Medium
+please help me reset my credentials - ticket reference account-68,Account,Medium
+please explain the attendance policy - ticket reference hr-59,HR,Medium
+please track my shipment - ticket reference delivery-69,Delivery,High
+i cannot access my profile - ticket reference account-15,Account,High
+what is the leave policy? - ticket reference hr-76,HR,Low
+i need general information - ticket reference general-48,General,High
+unable to login to my account - ticket reference account-91,Account,Low
+unable to login to my account - ticket reference account-6,Account,High
+please track my shipment - ticket reference delivery-54,Delivery,High
+please contact me regarding my query - ticket reference general-84,General,High
+package delivery is delayed - ticket reference delivery-97,Delivery,Low
+i need general information - ticket reference general-63,General,High
+the application has a technical issue - ticket reference technical-75,Technical,High
+my order is missing - ticket reference delivery-80,Delivery,Medium
+please contact me regarding my query - ticket reference general-69,General,High
+payment failed but money was deducted - ticket reference billing-39,Billing,High
+please track my shipment - ticket reference delivery-24,Delivery,High
+how many casual leaves are available? - ticket reference hr-42,HR,High
+application is crashing - ticket reference technical-26,Technical,Medium
+how many casual leaves are available? - ticket reference hr-17,HR,Medium
+my order has not arrived - ticket reference delivery-81,Delivery,High
+how many casual leaves are available? - ticket reference hr-92,HR,Medium
+please help me reset my credentials - ticket reference account-58,Account,Low
+how many casual leaves are available? - ticket reference hr-62,HR,Medium
+i was charged twice - ticket reference billing-71,Billing,Medium
+please refund my payment - ticket reference billing-73,Billing,Low
+please explain the attendance policy - ticket reference hr-64,HR,Low
+my order is missing - ticket reference delivery-95,Delivery,Medium
+package delivery is delayed - ticket reference delivery-62,Delivery,Medium
+i forgot my password - ticket reference account-87,Account,High
+how can i apply for leave? - ticket reference hr-40,HR,Low
+package delivery is delayed - ticket reference delivery-87,Delivery,High
+unable to login to my account - ticket reference account-56,Account,Medium
+what is the leave policy? - ticket reference hr-56,HR,Medium
+what are the office timings? - ticket reference general-81,General,High
+what are the office timings? - ticket reference general-76,General,Low
+website is not loading - ticket reference technical-82,Technical,Low
+please track my shipment - ticket reference delivery-49,Delivery,Low
+payment failed but money was deducted - ticket reference billing-44,Billing,Medium
+website is not loading - ticket reference technical-62,Technical,Medium
+unable to login to my account - ticket reference account-36,Account,High
+please explain the attendance policy - ticket reference hr-44,HR,Medium
+i received the wrong product - ticket reference delivery-53,Delivery,Medium
+i was charged twice - ticket reference billing-96,Billing,High
+package delivery is delayed - ticket reference delivery-67,Delivery,Low
+my order has not arrived - ticket reference delivery-61,Delivery,Low
+where is the company office? - ticket reference general-77,General,Medium
+i need general information - ticket reference general-58,General,Low
+i cannot access my profile - ticket reference account-80,Account,Medium
+how many casual leaves are available? - ticket reference hr-27,HR,High
+please refund my payment - ticket reference billing-23,Billing,Medium
+please explain the attendance policy - ticket reference hr-69,HR,High
+i have a general question - ticket reference general-45,General,High
+how can i apply for leave? - ticket reference hr-100,HR,Low
+i received the wrong product - ticket reference delivery-48,Delivery,High
+what is the leave policy? - ticket reference hr-11,HR,Medium
+please explain the attendance policy - ticket reference hr-49,HR,Low
+software is running slowly - ticket reference technical-33,Technical,High
+i was charged twice - ticket reference billing-26,Billing,Medium
+application is crashing - ticket reference technical-86,Technical,Medium
+i received the wrong product - ticket reference delivery-13,Delivery,Low
+i cannot access my profile - ticket reference account-55,Account,Low
+unable to login to my account - ticket reference account-51,Account,High
+please track my shipment - ticket reference delivery-44,Delivery,Medium
+i am facing a server error - ticket reference technical-59,Technical,Medium
+how many casual leaves are available? - ticket reference hr-72,HR,High
+my order is missing - ticket reference delivery-40,Delivery,Low
+please track my shipment - ticket reference delivery-34,Delivery,Low
+package delivery is delayed - ticket reference delivery-42,Delivery,High
+i received the wrong product - ticket reference delivery-73,Delivery,Low
+unable to login to my account - ticket reference account-66,Account,High
+i need general information - ticket reference general-3,General,High
+please contact me regarding my query - ticket reference general-49,General,Low
+i was charged twice - ticket reference billing-66,Billing,High
+i forgot my password - ticket reference account-27,Account,High
+payment failed but money was deducted - ticket reference billing-54,Billing,High
+where is the company office? - ticket reference general-67,General,Low
+please track my shipment - ticket reference delivery-39,Delivery,High
+how many casual leaves are available? - ticket reference hr-77,HR,Medium
+please contact me regarding my query - ticket reference general-19,General,Low
+where is the company office? - ticket reference general-72,General,High
+i need general information - ticket reference general-18,General,High
+my order is missing - ticket reference delivery-75,Delivery,High
+please refund my payment - ticket reference billing-98,Billing,Medium
+i was charged twice - ticket reference billing-41,Billing,Medium
+the application has a technical issue - ticket reference technical-35,Technical,Medium
+i received the wrong product - ticket reference delivery-58,Delivery,Low
+please help me reset my credentials - ticket reference account-88,Account,Low
+please track my shipment - ticket reference delivery-19,Delivery,Low
+please refund my payment - ticket reference billing-58,Billing,Low
+i forgot my password - ticket reference account-67,Account,Low
+i forgot my password - ticket reference account-2,Account,Medium
+application is crashing - ticket reference technical-41,Technical,Medium
+package delivery is delayed - ticket reference delivery-12,Delivery,High
+i cannot access my profile - ticket reference account-50,Account,Medium
+application is crashing - ticket reference technical-1,Technical,Low
+i forgot my password - ticket reference account-37,Account,Low
+website is not loading - ticket reference technical-7,Technical,Low
+i need my billing statement - ticket reference billing-85,Billing,Low
+unable to login to my account - ticket reference account-71,Account,Medium
+i am facing a server error - ticket reference technical-99,Technical,High
+i received the wrong product - ticket reference delivery-33,Delivery,High
+application is crashing - ticket reference technical-51,Technical,High
+please explain the attendance policy - ticket reference hr-29,HR,Medium
+please help me reset my credentials - ticket reference account-83,Account,Medium
+application is crashing - ticket reference technical-61,Technical,Low
+what are the office timings? - ticket reference general-51,General,High
+my order has not arrived - ticket reference delivery-86,Delivery,Medium
+please explain the attendance policy - ticket reference hr-54,HR,High
